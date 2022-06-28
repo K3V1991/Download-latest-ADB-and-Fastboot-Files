@@ -23,3 +23,7 @@
 1. Download latest Release
 2. Double click on Download-latest-ADB-&-Fastboot-Files.bat
 3. Download begins and places Files in ADB and Fastboot Files Folder
+<br />
+
+## Screenshot:
+<img src="https://i.ibb.co/K5hcZby/ADB-Fastboot-Downloader.png"></a>
