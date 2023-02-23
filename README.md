@@ -26,4 +26,4 @@
 <br />
 
 ## Screenshot:
-<img src="https://i.ibb.co/K5hcZby/ADB-Fastboot-Downloader.png"></a>
+<img src="https://github.com/K3V1991/Download-latest-ADB-and-Fastboot-Files/blob/main/ADB-Fastboot-Downloader.png"></a>
