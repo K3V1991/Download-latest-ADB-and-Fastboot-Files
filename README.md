@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/r4Hc8cZ/Download.png" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/Download-latest-ADB-and-Fastboot-Files/blob/main/Download.png" width="200"></a>
 <h1 align="center"><b>Batch Script to download latest Version of ADB & Fastboot Files for Windows</b></h1>
 <br />
 
