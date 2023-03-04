@@ -20,9 +20,9 @@
 * PowerShell
 
 ## Usage:
-1. Download latest Release
-2. Double click on Download-latest-ADB-&-Fastboot-Files.bat
-3. Download begins and places Files in ADB and Fastboot Files Folder
+1. Download latest from ```Releases Tab```
+2. Double click on ```Download-latest-ADB-&-Fastboot-Files.bat```
+3. Download begins and places Files in ```ADB and Fastboot Files Folder```
 <br />
 
 ## Screenshot:
